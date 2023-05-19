@@ -2,7 +2,7 @@
 # Answer 2: 
     user.name = Ronan-Fritz
     user.email = RF074921@ohio.edu
-# Answer 3: Brings up a huge list of help options
+# Answer 3: Brings up a very large list of help options.
 # Answer 4:
 On branch master
 
@@ -39,7 +39,7 @@ Changes to be committed:
  # Answer 8:
 commit 226c223cc0e878027c6801fd495d03552f497d1e (HEAD -> master)
 Author: Ronan-Fritz <rf074921@ohio.edu>
-Date:   Wed Jan 25 16:44:56 2023 -0500
+Date:   Fri May 19 16:44:56 2023 -0500
 # Answer 9:
 On branch main
 Your branch is up to date with 'origin/main'.
